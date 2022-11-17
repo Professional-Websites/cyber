@@ -1,1 +1,1 @@
-# cyber
+# cyb-inu-0.2
